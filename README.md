@@ -17,7 +17,7 @@ For the easy testing
 - **Multi-Format Support:** Compare text, .docx, and .pdf files instantly.
 - **AI-Powered Analysis:** Uses Google Gemini 2.0 Flash to generate smart summaries of changes, filtering out noise.
 - **Visual Diff:** Side-by-side or Unified view with color-coded additions/deletions.
-- **Statistics Dashboard:** Real-time metrics on change impact percentage, lines added/removed, and processing time.
+- **Statistics Dashboard:** Real-time metrics on change impact percentage, lines added/removed, histories of previous comparision , example run to show the ability of application and processing time.
 - **Dark Mode:** Fully responsive UI with a professional dark theme.
 - **Local History:** Automatically saves your recent comparisons locally (privacy-focused).
 - **Export & Share:** Copy detailed reports to clipboard with one click.
