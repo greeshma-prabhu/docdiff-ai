@@ -62,7 +62,8 @@ Follow these steps to run the application locally.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/docdiff-ai.git
+
+git clone https://github.com/greeshma-prabhu/docdiff-ai.git
 cd docdiff-ai
 npm install
 ```
