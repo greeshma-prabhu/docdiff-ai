@@ -5,6 +5,7 @@
 DocDiff AI is a modern, intelligent document comparison tool. It goes beyond simple text differencing by using Google Gemini 2.0 Flash to provide concise, context-aware summaries of what changed and why.
 
 ## 🌐 Live Demo
+For the easy testing
 
 **[Click here to view the Live Application](https://docdiff-ai.vercel.app/)**
 
